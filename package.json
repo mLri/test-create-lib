@@ -7,13 +7,13 @@
   },
   "repository": { 
     "type": "git",
-    "url": "git@github.com:beforesecond/hello-nextzy.git"
+    "url": "https://github.com/mLri/test-create-lib.git"
   },
   "keywords": [
     "npm",
     "test create lib"
   ],
   "author": "mLri",
-  "license": "MIT",
+  "license": "MIT"
 }
 
