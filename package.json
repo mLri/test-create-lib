@@ -1,0 +1,19 @@
+{
+  "name": "test-create-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": { 
+    "type": "git",
+    "url": "git@github.com:beforesecond/hello-nextzy.git"
+  },
+  "keywords": [
+    "npm",
+    "test create lib"
+  ],
+  "author": "mLri",
+  "license": "MIT",
+}
+
